@@ -1,4 +1,4 @@
-from langchain.chat_models import ChatOllama
+from langchain_community.chat_models import ChatOllama
 from langchain.schema import AIMessage, HumanMessage
 
 # Define the Ollama LLM model
